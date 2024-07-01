@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 #They need to understand who is leaving. Imagine that you are an analyst at this company and you have to find out who is leaving and why.
 
 #loading dataset
-churn_df=pd.read_csv('E:\\datascience\\ed_x\\ed_x_project_and_lab\\csv\\ChurnData.csv')
+churn_df=pd.read_csv('ChurnData.csv')
 churn_df.head()
 churn_df.columns
 
